@@ -177,7 +177,7 @@ const myQuestions = [
         id: 30,
         question: "He was inspecting some of the old stuff .......",
         options: { a: "hoping to find something what he wanted", b: "hoping to find what he wanted", c: "hopefully finding the thing he wanted", d: "which he is lookinng for" },
-        correct: "c"
+        correct: "b"
     },
     
 
